@@ -1,0 +1,38 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/6.png",
+        "subtitle": "Step One",
+        "title": "Research the field",
+        "paragraph": "No company exists in a vacuum. Even if a business makes every effort to distinguish unique, it must still compete with the industry norms. At this step, we investigate the types of logos used by rival companies and sector leaders."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/1.png",
+        "subtitle": "Step Two",
+        "title": "Design",
+        "paragraph": "In this step, we begin by outlining our concepts and ideas on paper. This facilitates effective concept execution. As we focus on the little things, it also enables us to enhance the creative process. After finishing the sketches, we begin designing the logo using graphics software."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/2.png",
+        "subtitle": "Step Three",
+        "title": "Revise",
+        "paragraph": "It's time to focus on developing our designs after finishing the previous step with a variety of possibilities. We consider our design from the viewpoint of the client and pay attention to their comments."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/3.png",
+        "subtitle": "Step four",
+        "title": "Beautify ",
+        "paragraph": "Quality and consistency are crucial for preserving the integrity of your brand identity. It's crucial to establish a set of rules and principles for how to approach your logo given the variety of locations it will reside and the range of persons who may need to use it, how not to, etc."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/4.png",
+        "subtitle": "Step five",
+        "title": "Present",
+        "paragraph": "Now that your logo is complete, it's time to provide your final files! We ensure that the following files are included: Layered source vector files, Layered EPS/PDF files, High resolution raster files for the web, including PNGs with transparent backgrounds."
+    }
+]

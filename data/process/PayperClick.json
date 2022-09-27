@@ -1,0 +1,38 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/1.png",
+        "subtitle": "Step One",
+        "title": "Research the field",
+        "paragraph": "We will gather all the data needed for decision-making in the subsequent steps at this point. The study data you gathered will serve as the foundation for developing your marketing campaign strategy. This phase is also known as the marketing research phase."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/2.png",
+        "subtitle": "Step Two",
+        "title": "Design Elements",
+        "paragraph": "It's time to focus on developing our designs after finishing the previous step with a variety of possibilities."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/3.png",
+        "subtitle": "Step Three",
+        "title": "Assign Objective",
+        "paragraph": "We will identify your specific business objectives and how they connect to PPC while developing advertising strategies. Setting a PPC target might assist you in achieving marketing objectives other than just financial success."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/4.png",
+        "subtitle": "Step four",
+        "title": "Fix Budget",
+        "paragraph": "In this phase, we will establish a budget that will allow an advertisement to operate at peak efficiency and provide you with the desired outcome. Budgeting will only be done with the client's consent."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/5.png",
+        "subtitle": "Step five",
+        "title": "Deliver Result",
+        "paragraph": "It's now time to present you with the results of your most effective PPC campaign and help you accomplish your objective successfully from a financial standpoint."
+    }
+]

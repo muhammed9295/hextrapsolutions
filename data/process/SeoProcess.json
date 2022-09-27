@@ -1,0 +1,45 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/3.png",
+        "subtitle": "Step One",
+        "title": "Technical Audit",
+        "paragraph": "A technical audit examines each and every component of the website that can have an influence on your SEO performance. Speed is among the most crucial of all of these factors. Depending on what has to be fixed with the site, a technical audit should be extensive and take weeks to complete."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/4.png",
+        "subtitle": "Step Two",
+        "title": "Keyword Research",
+        "paragraph": "In order to optimize a website, a set of keyword phrases must be found through keyword phrase research. Finding a decent selection of words that offer a balanced combination of two crucial factors—high usage by searchers and relatively low competition inside the search engines—takes a lot of work and is a vital first step."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/5.png",
+        "subtitle": "Step Three",
+        "title": "Content Building",
+        "paragraph": "When it comes to SEO, content is king. The fact that there is a lot of high-quality, relevant material on your website can help you in a number of significant ways since search engines adore text. Users will remain and return to a website if it is filled with interesting, high-quality material that they find valuable. Since they were looking for information, they came to your website."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/6.png",
+        "subtitle": "Step four",
+        "title": "Page Optimization",
+        "paragraph": "We ensure that the page titles on your website mention anything more than 'welcome' or your business name. Your targeted word for that page should ideally come first, followed by the name of your business. Your ranking on search engines is also influenced by the prominence and placement of the keywords. SEO activities are impacted by a number of significant technological problems that should be checked for and fixed as necessary. They consist of the following: crawlability, URL structure, mobile responsiveness, and site performance."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/1.png",
+        "subtitle": "Step five",
+        "title": "Social & Link Building",
+        "paragraph": "For businesses prepared to invest the time in leveraging it, the power of online sharing through social media offers enormous potential. During this stage of the process, we assist clients in creating a social media presence and advise them on the most effective ways to use those social media profiles to distribute website content and engage with existing and new consumers. We advise our customers on the best ways to use Google My Business to enhance exposure for local searches, which is especially crucial for small businesses."
+    },
+    {
+        "id": 6,
+        "thumb": "/images/others/2.png",
+        "subtitle": "Step Six",
+        "title": "Ranking",
+        "paragraph": "We are unable to promise any precise rankings for particular terms. A certain position within a search engine's organic search results cannot be guaranteed. Utilizing solely white hat techniques, Hextrap Solutions optimises websites to make them as appealing to search engines as feasible. Hextrap Solution's suggestions would specifically make sure that the site is simple to crawl, packed with keyword-rich material, enjoys quality incoming links, delivers a fantastic user experience, and is evaluated and improved depending on its success against our stated goals. These techniques have established themselves as successful SEO strategies for our clients over time."
+    }
+]

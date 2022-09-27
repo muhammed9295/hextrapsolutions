@@ -1,0 +1,38 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/6.png",
+        "subtitle": "Step One",
+        "title": "Brainstorming",
+        "paragraph": "We make sure there is interest in a subject before we begin writing on it. It might not be worthwhile to invest time and effort if the search volume is insufficient. As a result, determining the appropriate search volume will be the first research project we conduct. The next step was to generate ideas for the chosen theme."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/1.png",
+        "subtitle": "Step Two",
+        "title": "Drafting",
+        "paragraph": "The real job starts now as we begin to write down all the ideas we've come up with so that our viewers may continue reading without losing interest and that our content contains keyword-rich texts."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/2.png",
+        "subtitle": "Step Three",
+        "title": "Revising",
+        "paragraph": "Making significant edits to our initial draft is known as revising. At the end of the day, we want our final product to flow naturally and make sense. We are aware that the writing process is not linear; rather, it frequently switches between processes as we identify places in our updated text that require further research (prewriting) or when we decide we need to create a few more conclusions to wrap things up."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/3.png",
+        "subtitle": "Step four",
+        "title": "Editing",
+        "paragraph": "Now that the revised version has been shared, we ask our other content writers to review it carefully for any common or grammatical flaws. We also check the built document for plagiarism to prevent any copyright difficulties."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/4.png",
+        "subtitle": "Step five",
+        "title": "Publishing",
+        "paragraph": "It's time to get our document available for public viewing now that we've finished editing. Additionally, we ensure that it will be simple to find your content online. This entails incorporating SEO best practices into the writing and publishing processes."
+    }
+]

@@ -1,0 +1,38 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/2.png",
+        "subtitle": "Step One",
+        "title": "Examine URL",
+        "paragraph": "At this point, a technical auditing tool will be used to check your website for flaws. These could have to do with mobility, performance, SEO, security, and other things. How effectively your website functions for users is significantly influenced by its technological setup and structure."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/3.png",
+        "subtitle": "Step Two",
+        "title": "Check Technical Errors",
+        "paragraph": "We'll now examine SEO-related topics in order to raise your search engine rating. This may entail reading through picture alt text and meta descriptions, among other things."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/4.png",
+        "subtitle": "Step Three",
+        "title": "Analyze UX/UI",
+        "paragraph": "When performing a website audit, one of the things we like to check at is the user experience. How well is this layout serving your clients? Heat-maps illustrating the elements of your design that people are most interested in and what they are reading are available in certain of our tools. This kind of research will help us understand how your visitors are being affected by the overall design and user experience."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/5.png",
+        "subtitle": "Step four",
+        "title": "Assess Content",
+        "paragraph": "We may evaluate website content, such as blogs, website pages, etc., with the use of a website audit. We'll be interested to know how your present pages compare."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/6.png",
+        "subtitle": "Step five",
+        "title": "Fix Issues",
+        "paragraph": "Last but not least, while doing a website audit, we will include a summary of all our findings, a list of the problems with the site, and suggestions for solutions."
+    }
+]   

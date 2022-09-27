@@ -1,0 +1,45 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/1.png",
+        "subtitle": "Step One",
+        "title": "Gathering Information",
+        "paragraph": "The next stages appearance is determined by this phase of discovery and study. Gaining a clear knowledge of your prospective website's aims, the key objectives you want to achieve, and the target audience you want to draw to your site is the most crucial task at this time. Such a website development questionnaire aids in creating the finest plan for future project management."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/2.png",
+        "subtitle": "Step Two",
+        "title": "Sitemaping and Wireframe creation",
+        "paragraph": "At this stage of the website construction process, the Hextrap developer produces the information that enables a customer to assess how the full site will seem. The sitemap is constructed using the data that was acquired in the earlier stage."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/3.png",
+        "subtitle": "Step Three",
+        "title": "Web Design",
+        "paragraph": "Your website is currently taking form. At this stage, all of the visual material is generated, including pictures, videos, and images. A designer created the layout of the website. Either a graphic design or a graphic sketch may be used. The layout's main purposes are to convey the information structure, illustrate the content, and show the fundamental functioning."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/4.png",
+        "subtitle": "Step four",
+        "title": "Content Assembly",
+        "paragraph": "The core substance of what you want to say to your website's visitors must be expressed in writing at this stage, along with calls to action. It takes time and effort to write content since it also requires the production of attention-grabbing headlines, text editing, creating new text, assembling the current material, etc."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/5.png",
+        "subtitle": "Step five",
+        "title": "Coding",
+        "paragraph": "The website itself may now begin to be created at this stage. An actual website should be created using the graphic components that were produced in the earlier phases. In accordance with the website structure that was previously generated in the form of a sitemap, the main page is often constructed first, and then all sub-pages are added. To ensure that the installation and setup go successfully on the server, frameworks and CMS should be used."
+    },
+    {
+        "id": 6,
+        "thumb": "/images/others/6.png",
+        "subtitle": "Step Six",
+        "title": "Build and Export",
+        "paragraph": "Your website is finally up and running. We now produce the required supporting typescript and host it on our servers to provide a seamless experience for your potential consumers."
+    }
+]

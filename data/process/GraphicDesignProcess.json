@@ -1,0 +1,38 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/4.png",
+        "subtitle": "Step One",
+        "title": "Design Research",
+        "paragraph": "Any graphic design approach must begin with the brief. This could include information about the company, the intended market, the requirements, and a wide range of other things. It aids in our understanding of our client's requirements. This stage is essential because we need to learn as much as we can about our customer, his or her business, and the expectations the client has for the project."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/5.png",
+        "subtitle": "Step Two",
+        "title": "Brainstorming",
+        "paragraph": "In the context of design, brainstorming is the initial stage in determining how we will approach the client's brief. To do this, we must decide what we will really develop for the customer. After gathering all design concepts, a mood board is created. Moodboarding provides ideas for a project's visual style. They can be used to figure out just about anything, from colour to font."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/6.png",
+        "subtitle": "Step Three",
+        "title": "Design Building",
+        "paragraph": "Idea generation, which comes after brainstorming, is the next stage in the design process. Design really begins to resemble design when it is thumbnailed. Thumbnailing is a technique that may be utilised to demonstrate how our thoughts can truly seem once we have gone through them. At this point, we will develop several design iterations."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/1.png",
+        "subtitle": "Step four",
+        "title": "Refining",
+        "paragraph": "There are frequently several suggestions and requests for changes from our clients. To put it another way, we'll have to start enhancing our designs. But first, we get immediate input from other individuals before presenting the designs to our customer once more."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/2.png",
+        "subtitle": "Step five",
+        "title": "Presenting",
+        "paragraph": "The amount of changes we make and the comments we receive depend on how we present our work. Naturally, it also depends on our clients. We can influence and persuade our client if we are able to present a compelling tale about our designs."
+    }
+]

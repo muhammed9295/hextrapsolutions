@@ -1,0 +1,38 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/others/2.png",
+        "subtitle": "Step One",
+        "title": "Research",
+        "paragraph": "We will gather all the data needed for decision-making in the subsequent steps at this point. The study data you gathered will serve as the foundation for developing your digital marketing campaign strategy. This phase is also known as the digital marketing research phase."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/others/3.png",
+        "subtitle": "Step Two",
+        "title": "Create Marketing Plan",
+        "paragraph": "This step involves studying, analysing, and using the data gathered in the previous stage to develop a marketing plan and campaign. The campaign is developed with the intended outcomes and goals in mind. The campaign's branding and content approach seek to increase sales, reach the most potential consumers, or both."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/others/4.png",
+        "subtitle": "Step Three",
+        "title": "Promote",
+        "paragraph": "We will begin marketing main digital identities once they are completely ready. We want the right people to start visiting your major digital identities, so to speak. This is sometimes referred to as driving targeted traffic. Your brand will be marketed via a variety of digital channels, including social media, e-commerce websites, display networks, email marketing, affiliate marketing, and search engines."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/others/5.png",
+        "subtitle": "Step four",
+        "title": "Analyze",
+        "paragraph": "It's time to start tracking the performance of your brand once we've created your major digital identities and begun pushing them through various digital marketing channels. To produce ROI reports, the outcomes of the marketing and promotional efforts are compiled and examined. To assist the marketing team in developing a stronger campaign in the future, the research helps to identify the campaign's strong and weak points. Tools for successful analysis are used to accomplish this."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/6.png",
+        "subtitle": "Step five",
+        "title": "Optimize",
+        "paragraph": "We start making modifications at this point based on analysis and observations (fine-tuning). It's possible that our principal digital identities or digital marketing channels will shift. Changes are often referred to as the substance and design of your identities and promotional communications."
+    }
+]

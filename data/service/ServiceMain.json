@@ -1,0 +1,181 @@
+[
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Website Design and Development",
+        "title2": "Website Design and Development",
+        "description": "A website is required if you operate a business. This is your online storefront where you may offer your items or services to your target market."
+    },
+    {
+        "image": "/images/icon/icon-37.png",
+        "title": "Digital Marketing",
+        "title2": "Digital Marketing",
+        "description": "The promotion of your brands via the internet and other digital communication channels is known as digital marketing, commonly referred to as online marketing."
+    },
+    {
+        "image": "/images/icon/icon-34.png",
+        "title": "Search Engine Optimization",
+        "title2": "Search Engine Optimization",
+        "description": "Search engine optimization is the technique of attracting visitors from unpaid, editorial, organic, or natural search results in search engines."
+    },
+    {
+        "image": "/images/icon/icon-38.png",
+        "title": "Digital Marketing",
+        "title2":"Social Media marketing",
+        "description": "We'll increase brand visibility, customers, and sales. We help companies align social media marketing with business goals."
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Graphic Design",
+        "title2": "Graphic Design",
+        "description": "Businesses use graphic design to identify themselves, to display complicated information through infographics, and to market and sell products."
+    },
+    {
+        "image": "/images/icon/icon-44.png",
+        "title": "Contact",
+        "title2": "Accounting Solutions",
+        "description": "You require an efficient, cost-effective, and discreet service provider? Hextrap solutions offers you the best accounting solutions."
+    },
+
+    {
+        "image": "/images/icon/icon-29.png",
+        "title": "Logo and Branding",
+        "title2": "Logo and Branding",
+        "description": "It's a marketing approach used by firms to help clients recognise their brand and items and encourage them to choose them over rivals.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-35.png",
+        "title": "Pay-per click",
+        "title2": "Pay-per click",
+        "description": "Pay-per-click marketing is a form of advertising where advertisers don't pay only for ad placement or by the number of impressions received.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-43.png",
+        "title": "contact",
+        "title2": "Hosting",
+        "description": "Web hosting allows businesses and individuals to store and access website files online. We provide reliable hosting services for you.",
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-41.png",
+        "title": "Content writing",
+        "title2": "Content writing",
+        "description": "When a company wants to disseminate information about its services and goods, content writing is the process of creating and producing digital and printed material.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-45.png",
+        "title": "Web Audit Report",
+        "title2": "Web Audit Report",
+        "description": "If your website is not optimized to meet your traffic goals, an audit may reveal this and show you what needs to be done to make it more effective.",
+        "cate": "Content strategy"
+    },
+    {
+        "image": "/images/icon/icon-40.png",
+        "title": "contact",
+        "title2": "Online Business consulting",
+        "description": "You must grab business opportunities. Your web presence can help it reach a global audience.",
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Website Design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-28.png",
+        "title": "Mobile app design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Graphic/print design",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-30.png",
+        "title": "Video production",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Design"
+    },
+
+    {
+        "image": "/images/icon/icon-31.png",
+        "title": "Content Managment",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-32.png",
+        "title": "Mobile app development",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-33.png",
+        "title": "eCommerce",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-34.png",
+        "title": "SEO",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    
+    {
+        "image": "/images/icon/icon-36.png",
+        "title": "Email marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-37.png",
+        "title": "Display marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-38.png",
+        "title": "Social Media marketing",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-39.png",
+        "title": "Digital strategy",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },    
+    {
+        "image": "/images/icon/icon-42.png",
+        "title": "Reporting",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Business"
+    },    
+    {
+        "image": "/images/icon/icon-44.png",
+        "title": "Big data analysis",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Technology"
+    },
+    
+    {
+        "image": "/images/icon/icon-46.png",
+        "title": "Marketing Flexibility",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Content strategy"
+    },
+    {
+        "image": "/images/icon/icon-47.png",
+        "title": "Advertising Strategy",
+        "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+        "cate": "Content strategy"
+    }
+    
+]
